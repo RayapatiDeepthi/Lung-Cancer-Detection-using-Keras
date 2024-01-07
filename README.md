@@ -38,5 +38,5 @@ TensorFlow Addons (tfa): An add-on library for TensorFlow that includes addition
 
 These technologies and libraries are commonly used in machine learning and deep learning projects for tasks such as data preprocessing, model building, training, evaluation, and visualization
 # Model Architechture
-The deep learning model used in this project is a convolutional neural network (CNN). The model consists of several layers including convolutional, max pooling, batch normalization, and dense layers. Transfer learning is used by initializing the model with pre-trained weights from one of the above-mentioned pre-trained models.
+The deep learning model used in this project is a convolutional neural network (CNN). The model consists of several layers including convolutional, max pooling, batch normalization, and dense layers. 
 The model was trained using the Adam optimizer with a learning rate of 0.001, a batch size of 16, and a total of 50 epochs.
